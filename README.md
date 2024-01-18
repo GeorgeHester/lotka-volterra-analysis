@@ -1,6 +1,6 @@
 # Problem
 
-This repository contains an analysis of multiple different numerical schemes which can be used to solve the [Lotka–Volterra]https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations problem.
+This repository contains an analysis of multiple different numerical schemes which can be used to solve the [Lotka–Volterra](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) problem.
 
 # Developer Guide
 
