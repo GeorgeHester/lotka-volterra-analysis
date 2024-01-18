@@ -1,0 +1,9 @@
+.ds_store
+desktop.ini
+.*
+!.gitignore
+
+/.*/
+
+/working/
+/__pycache__/
